@@ -11,8 +11,8 @@ temp/
 .DS_Store
 *.pyc
 *.zip
+*.csv
 */work-items-out/*
 testrun/*
 .~lock*
 *.pkl
-*.csv
